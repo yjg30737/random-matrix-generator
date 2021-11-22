@@ -55,7 +55,7 @@ Result
 
 ![RandomMatrixGenerator](./example/rmgExample.png)
 
-If you click generate button once more, dots won't reset; It will be more covered by another random generated dots. I will make an option of that soon enough.
+If you click generate button once more, matrix won't reset; It will be more covered by another random generated dots. I will make an option of that soon enough.
 
 
 
